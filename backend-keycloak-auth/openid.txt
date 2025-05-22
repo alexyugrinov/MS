@@ -1,0 +1,1 @@
+http://backend-keycloak-auth:8080/auth/realms/ITM/.well-known/openid-configuration
